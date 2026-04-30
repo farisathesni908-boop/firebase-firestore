@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901813966016",
+    "project_id": "todopage-a3ec3",
+    "storage_bucket": "todopage-a3ec3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901813966016:android:7d8782517a679ecc4dc925",
+        "android_client_info": {
+          "package_name": "com.example.todopage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sZN4_7GZzMFhd359DBM_awPvQY1YkMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
